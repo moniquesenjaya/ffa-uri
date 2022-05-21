@@ -1,0 +1,14 @@
+{
+    "creators": [
+        {
+            "address": "yL6gjm6SujqaTXfoTPxpc663PwbquotkBWp6qNE4dnm",
+            "share": 100,
+            "verified": true
+        }
+    ],
+    "name": "Fancy Fox Association",
+    "image": "",
+    "seller_fee_basis_points": 500,
+    "symbol": "FFA",
+    "uri": ""
+}
