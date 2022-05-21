@@ -7,8 +7,8 @@
         }
     ],
     "name": "Fancy Fox Association",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/moniquesenjaya/ffa-uri/75fb3df4bf1e4f118107931cfb20de0bd03d2d5c/Collection.png",
     "seller_fee_basis_points": 500,
     "symbol": "FFA",
-    "uri": ""
+    "uri": "https://raw.githubusercontent.com/moniquesenjaya/ffa-uri/75fb3df4bf1e4f118107931cfb20de0bd03d2d5c/collection.json"
 }
